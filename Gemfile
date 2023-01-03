@@ -60,7 +60,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 #This httparty gem takes a url and parse through it converting it to a ruby object so we can read the infomation and use this gem to retrieve data from that url
-gem 'httparty', '~> 0.18.0'
+gem 'httparty', '~> 0.21.0'
 
 #We will use this gem to get the latitude and longitude of our location 
 gem 'geocoder'
